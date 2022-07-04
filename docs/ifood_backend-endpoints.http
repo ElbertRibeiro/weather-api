@@ -1,0 +1,6 @@
+###
+GET http://localhost:8080/about
+
+GET http://localhost:8080/weather
+
+<> 2021-10-16T124223.200.txt

@@ -1,4 +1,4 @@
-package comgithub.elbertribero.ifoodapi;
+package com.github.weatherapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
