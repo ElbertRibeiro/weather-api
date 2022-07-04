@@ -1,12 +1,12 @@
-package comgithub.elbertribero.ifoodapi;
+package com.github.weatherapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication public class IfoodapiApplication {
+@SpringBootApplication public class WeatherapiApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(IfoodapiApplication.class, args);
+        SpringApplication.run(WeatherapiApplication.class, args);
     }
 
 }
