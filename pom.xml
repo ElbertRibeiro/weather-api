@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.github.weatherapi</groupId>
-    <artifactId>weatherapi</artifactId>
+    <artifactId>weather-api</artifactId>
     <version>1.0</version>
     <name>${project.artifactId}</name>
     <properties>
