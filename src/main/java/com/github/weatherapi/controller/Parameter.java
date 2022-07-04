@@ -19,5 +19,6 @@ public class Parameter {
         return new ResponseEntity<>(new RestTemplate().getForEntity(
                 "https://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=b3cb5187ca32d8ba0e4c5aa3c520f2d4",
                 Object.class), HttpStatus.OK);
+    }
 
 }
